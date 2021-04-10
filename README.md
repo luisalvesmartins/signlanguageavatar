@@ -76,7 +76,7 @@ The interface was built using:
 - Models in FBX format
 
 Interface screenshot:
-![Screen1](sample1.png)
+![Screen1](./sample1.png)
 
 You can test it live [here](https://lamsign.blob.core.windows.net/learn/SignRecorder.html)
 
@@ -93,6 +93,7 @@ Project Zero - Learning Avatar
 2. option to select different models
 3. define playback speed
 4. playback sentences
+
 Project Voice to Text:
 1. <s>Voice to text - transform voice to text</s> (done)
 2. <s>Translate the text to an abstract langugage used to represent the signs</s> (done)
