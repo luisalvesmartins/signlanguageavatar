@@ -77,7 +77,7 @@ The interface was built using:
 
 Interface screenshot:
 
-<img src="sample1.png" alt="interface" width="400px"/>
+![screenshot](sample1.PNG)
 
 You can test it live [here](https://lamsign.blob.core.windows.net/learn/SignRecorder.html)
 
