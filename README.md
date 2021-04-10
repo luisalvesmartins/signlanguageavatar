@@ -76,7 +76,8 @@ The interface was built using:
 - Models in FBX format
 
 Interface screenshot:
-![Screen1](./sample1.png)
+
+<img src="sample1.png" alt="interface" width="400px"/>
 
 You can test it live [here](https://lamsign.blob.core.windows.net/learn/SignRecorder.html)
 
