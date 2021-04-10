@@ -1,11 +1,6 @@
 # Sign Language Avatar
 Use a 3d generated avatar for Sign Language learning and translation
 
-```
-Note: 
-Actual state of the project: Building a Learning Avatar
-```
-
 To do translation from voice to sign language we need several steps:
 
 1. Voice to text - transform voice to text
@@ -53,7 +48,7 @@ After experimenting with the 3 options, the one with more fluid behavior was the
 To implement an Avatar the first challenge to overcome is the inexistence of a library of movements. As we need to have the possibility to create new words, the starting task for the project is the creation of "Learning Avatar".
 
 
-## Learning Avatar
+## Project zero: Learning Avatar
 
 The expected user experience is:
 - Select a word or expression
@@ -81,7 +76,7 @@ The interface was built using:
 - Models in FBX format
 
 Interface screenshot:
-![Screen1](./docs/sample1.png)
+![Screen1](sample1.png)
 
 You can test it live [here](https://lamsign.blob.core.windows.net/learn/SignRecorder.html)
 
@@ -93,10 +88,15 @@ Clone the repo and launch a live-server or http-server and browse to SignRecorde
 
 Current backlog:
 
+Project Zero - Learning Avatar
 1. option to select pose speed
 2. option to select different models
 3. define playback speed
 4. playback sentences
+Project Voice to Text:
+1. <s>Voice to text - transform voice to text</s> (done)
+2. <s>Translate the text to an abstract langugage used to represent the signs</s> (done)
+3. Deliver the signs to the end user 
 
 Far fetched:
 1. Replicate movements from webcam
